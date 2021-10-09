@@ -1,0 +1,27 @@
+[
+  {
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    },
+    "guildId": "887031170079023115",
+    "includeNsfwChannels": false,
+    "propsChannels": [
+     
+    ],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "👎": 0,
+        "deyi:887959050187337768":3
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 0,
+      "weights": {
+      }
+    }
+  }
+]
