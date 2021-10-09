@@ -8,7 +8,7 @@
     "guildId": "887031170079023115",
     "includeNsfwChannels": false,
     "propsChannels": [
-     
+     "896219304163418132"
     ],
     "reactionWeightConfig": {
       "applyAveraging": false,
@@ -19,7 +19,7 @@
       }
     },
     "roleWeightConfig": {
-      "defaultWeight": 0,
+      "defaultWeight": 1,
       "weights": {
       }
     }

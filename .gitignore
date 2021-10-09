@@ -1,9 +1,0 @@
-node_modules/
-site/
-output/
-cache/
-
-.env
-.vscode
-**/.DS_Store
-**/.DS_Store?
